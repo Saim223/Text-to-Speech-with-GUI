@@ -1,6 +1,3 @@
-# main.py (Your Application)
-# This file contains the rewritten professional version of your GUI TTS+Sentiment tool.
-
 # NOTE:
 # Tkinter comes built-in with Python, so no pip install is needed.
 
